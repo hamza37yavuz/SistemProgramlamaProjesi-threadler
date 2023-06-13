@@ -77,4 +77,4 @@ Note: You can do this by letting the thread check its status before running/movi
 I may add some tests later for auto grading.. You may need to submit multiple times.
 
 I have a limited github, so it is best you complete the assignment on your computer then submit it from github, if it is possible.. 
-# SistemProgramlamaProjesi-threadler
+
